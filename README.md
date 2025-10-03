@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate Computer Science student, aiming to build secure and efficient software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ykazemim&label=Profile%20views&color=0e75b6&style=flat" alt="ykazemim" /> </p>
-
 - 🌱 I’m currently learning **Linux and Cybersecurity**
 
 - 📫 How to reach me **ykazemim04@gmail.com or LinkedIn**
@@ -19,6 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ykazemim&show_icons=true&locale=en&layout=compact" alt="ykazemim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ykazemim&show_icons=true&locale=en" alt="ykazemim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ykazemim&" alt="ykazemim" /></p>
-
